@@ -76,7 +76,7 @@ export default function Home() {
                                 <span> I'm interested in AI topics which is why I also added a Chatbot in my portfolio.</span>
                             </p>
                             <div className="call-to-action">
-                                <a href="./resume.pdf" className="button black">
+                                <a href="./Resume.pdf" className="button black">
                                     View Resume
                                 </a>
                                 <a href="mailto:lizhongxian23@gmail.com" className="button white">
@@ -205,7 +205,7 @@ export default function Home() {
                             <p>You can also download my resume here if you want to take a look
                                 at it. I'm currently looking for new opportunities so if you
                                 have a project you think I'd be a good fit for, please get in touch!</p>
-                            <a href="./resume.pdf" className="button black">Download Resume</a>
+                            <a href="./Resume.pdf" className="button black">Download Resume</a>
                         </div>
                         <div className="chat-box">
                             <div className="scroll-area">
