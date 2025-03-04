@@ -4,11 +4,12 @@ import { NextResponse } from "next/server";
 
 const endpoint = process.env.AZURE_OPENAI_ENDPOINT;
 const deployment = process.env.AZURE_OPENAI_MODEL;
+const apikey = process.env.AZURE_OPENAI_API_KEY;
 const credential = new DefaultAzureCredential();
 const scope = "https://cognitiveservices.azure.com/.default";
 const azureADTokenProvider = getBearerTokenProvider(credential, scope);
 
-const client = new AzureOpenAI({ apiVersion: "2024-05-01-preview" });
+const client = new AzureOpenAI({ apikey: apikey, apiVersion: "2024-05-01-preview" });
 
 export async function POST(req) {
   const { messages } = await req.json();
