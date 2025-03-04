@@ -38,7 +38,7 @@ export default function Home() {
     return (
         <>
             <header>
-                <a href="#" className="logo-holder">
+                <a href="https://portfolio-tony0816.vercel.app" className="logo-holder">
                     <div className="logo">TL</div>
                     <div className="logo-text">Portfolio Website</div>
                 </a>
@@ -205,7 +205,7 @@ export default function Home() {
                             <p>You can also download my resume here if you want to take a look
                                 at it. I'm currently looking for new opportunities so if you
                                 have a project you think I'd be a good fit for, please get in touch!</p>
-                            <a href="./Resume.pdf" className="button black">Download Resume</a>
+                            <a href="./resume.pdf" className="button black">Download Resume</a>
                         </div>
                         <div className="chat-box">
                             <div className="scroll-area">
