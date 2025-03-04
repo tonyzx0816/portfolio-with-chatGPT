@@ -76,7 +76,7 @@ export default function Home() {
                                 <span> I'm interested in AI topics which is why I also added a Chatbot in my portfolio.</span>
                             </p>
                             <div className="call-to-action">
-                                <a href="./Resume.pdf" className="button black">
+                                <a href="./resume.pdf" className="button black">
                                     View Resume
                                 </a>
                                 <a href="mailto:lizhongxian23@gmail.com" className="button white">

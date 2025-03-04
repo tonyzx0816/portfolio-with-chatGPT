@@ -37,14 +37,22 @@ https://www.linkedin.com/in/tony-li-17b169305
 https://github.com/tonyzx0816
 EDUCATION BACKGROUND
 San Jose State University San Jose, CA
-Bachelor of Software Engineering Aug 2024 – Dec 2026
+Bachelor of Software Engineering Aug 2024 - Dec 2026
 Major: Software Engineering GPA: 3.95/4.00
 Courses: Object-oriented Design, Computer & Human Interaction, Engineering Report, Engineering Statistics
 City College of San Francisco The Dean's Honor List in Fall 2022~2023 San Francisco, CA
-Jan 2022 – May 2024
+Jan 2022 - May 2024
 Major: Computer Science GPA: 3.96/4.00
 Courses: Data Structure & Algorithm in Java, Mathematics
 PROFESSIONAL EXPERIENCE
+Portfolio Website with Chatbot: Next.js-Based Personal Portfolio Feb 2025 - Mar 2025
+Azure OpenAI, Next.js, React, JavaScript, Tailwind CSS, API Integration
+• Developed a responsive portfolio website using Next.js, React, and Tailwind CSS, showcasing projects,
+skills, and achievements with an interactive UI.
+• Designed and implemented a chatbot powered by Azure OpenAI, allowing visitors to engage in real-time
+conversations and learn more about professional experiences.
+• Optimized website performance and deployed on Vercel, ensuring fast load times, scalability, and cross-
+device compatibility.
 Cashier-UI: Java-Based Cashier & Inventory Management System Oct 2024 - Dec 2024
 Java, AWT, JSON, OOP, MVC
 • Developed a cashier application with a GUI using Java AWT, featuring inventory management, invoice
