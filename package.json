@@ -12,6 +12,7 @@
     "@azure/identity": "^4.7.0",
     "@azure/openai": "^2.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "next": "15.2.0",
     "openai": "^4.86.1",
