@@ -148,7 +148,7 @@ export default function Home() {
                             </p>
                             <p>
                                 Throughout my coursework and personal projects, I've developed a solid understanding of software development principles and practices.
-                                Outside of the className, I enjoy working on some small game projects, which help me to improve my problem-solving skills.
+                                Outside of the class, I enjoy working on some small game projects, which help me to improve my problem-solving skills.
                                 I know that experience can only be gained through practice, so I'm always looking for new opportunities to learn and grow.
                             </p>
                         </div>
